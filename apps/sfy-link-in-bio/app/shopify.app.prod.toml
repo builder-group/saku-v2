@@ -82,3 +82,36 @@ required = true
 name = "Expires At"
 type = "date_time"
 required = true
+
+[metaobjects.app.page]
+name = "Saku page"
+description = "A page created and managed by Saku"
+display_name_field = "name"
+access.admin = "merchant_read"
+access.storefront = "public_read"
+capabilities.publishable = true
+
+[metaobjects.app.page.fields.name]
+name = "Name"
+type = "single_line_text_field"
+required = true
+
+[metaobjects.app.page.fields.document]
+name = "Document"
+type = "json"
+required = true
+
+[metaobjects.app.page.fields.products]
+name = "Products"
+type = "list.product_reference"
+required = true
+
+[metaobjects.app.page.fields.product_variants]
+name = "Product variants"
+type = "list.variant_reference"
+required = true
+
+[metaobjects.app.page.fields.files]
+name = "Files"
+type = "list.file_reference"
+required = true
