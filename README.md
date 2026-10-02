@@ -21,7 +21,7 @@
     <a href="https://apps.shopify.com/saku-bio-link">
         <img src="https://img.shields.io/badge/Shopify-App_Store-95BF47?logo=shopify&logoColor=white" alt="Shopify App Store"/>
     </a>
-    <a href="https://github.com/builder-group/saku/blob/develop/LICENSE">
+    <a href="https://github.com/builder-group/saku-v2/blob/develop/LICENSE">
         <img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg" alt="GitHub License"/>
     </a>
     <a href="https://discord.com/invite/w4xE3bSjhQ">
@@ -30,6 +30,10 @@
 </p>
 
 <br/>
+
+> **⚠️ Discontinued**
+>
+> This project is no longer maintained. This repository remains available for reference, but no new features, bug fixes, or security updates will be released.
 
 ## Introduction
 

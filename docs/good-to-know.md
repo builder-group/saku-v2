@@ -1,6 +1,6 @@
 # Good to Know
 
-## [Monorepo Dependency Bundling](https://github.com/builder-group/saku/issues/12)
+## [Monorepo Dependency Bundling](https://github.com/builder-group/saku-v2/issues/12)
 
 When using workspace packages (e.g., `@repo/api-core`) that get bundled into the React Router app, be aware of potential version conflicts with transitive dependencies. Here's what can happen:
 

@@ -5,11 +5,11 @@
 	"description": "Saku - Link In Bio Shopify App",
 	"keywords": [],
 	"bugs": {
-		"url": "https://github.com/builder-group/saku/issues"
+		"url": "https://github.com/builder-group/saku-v2/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/builder-group/saku.git"
+		"url": "https://github.com/builder-group/saku-v2.git"
 	},
 	"license": "AGPL-3.0-or-later",
 	"author": "@bennobuilder",
